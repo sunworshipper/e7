@@ -16,3 +16,5 @@ The CSCI E-7 staff for 2017 was:
 * Jose Herran (TF)
 
 We used Zed Shaw's book Learning Python The Hard Way, but converted code to Python 3.
+
+Lecture Slides are zipped Keynote files.
